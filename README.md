@@ -97,6 +97,14 @@ ls -l /dev/ttyCH9344USB*
 
 ---
 
+## 🔍 Keywords & Topics
+
+```text
+Keywords: CH9344, WCH, USB to Quad Serial, Multi-UART, Altium Designer, PCB Design, Linux Kernel Driver, ttyCH9344, Hardware Engineering, Shayan Shirazi, شایان شیرازی.
+```
+
+---
+
 ## 📄 License
 
 The hardware design assets and custom Makefile wrapper are released under the **MIT License**. The underlying kernel driver implementation is subject to the respective licensing terms of Nanjing Qinheng Microelectronics (WCH).
