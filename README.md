@@ -100,7 +100,7 @@ ls -l /dev/ttyCH9344USB*
 ## 🔍 Keywords & Topics
 
 ```text
-Keywords: CH9344, WCH, USB to Quad Serial, Multi-UART, Altium Designer, PCB Design, Linux Kernel Driver, ttyCH9344, Hardware Engineering, Shayan Shirazi, شایان شیرازی.
+Keywords: CH9344, WCH, USB to Quad Serial, Multi-UART, Altium Designer, PCB Design, Linux Kernel Driver, ttyCH9344, Hardware Engineering, Shayan Shirazi.
 ```
 
 ---
